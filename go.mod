@@ -12,5 +12,5 @@ require (
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	golang.org/x/net v0.13.0 // indirect
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da // indirect
+	golang.org/x/sys v0.10.0 // indirect
 )
